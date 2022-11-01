@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <p className='py-2 text-gray-600'>
             I started web developement in 2016 while attending UC Davis for Computer Science.
-            All of my Industry experience comes from working in start ups in the Silicon Valley. On a day to day basis, I work directly with UX desigeners and help transform their
+            All of my Industry experience comes from working in start ups in the Silicon Valley. On a day to day basis, I work directly with UX designers and help transform their
             wireframe designs into deployable applications. I posess the skillsets of a Full-Stack developer. However, I have a serious passion for UI effects, animations, and creating intuitive user experiences.
           </p>
           <p className='pb-15 py-2 text-gray-600'>  
