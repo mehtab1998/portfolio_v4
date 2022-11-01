@@ -20,7 +20,7 @@ const About = () => {
             I&apos;m passionate about learning new technologies and enjoy taking on challenging coding projects. Eventhough I am most proficient
             in building Front-End applications using HTML, CSS, Javascript,
             React, and Angular. I am a quick learner and can pick up new tech stacks/frameworks as 
-            needed. I believe that a great developer is a master of data structures, but someone that takes on challenges with innovative tools and advanced coding principles.
+            needed. I believe that a great developer is not a master of data structures, but someone that takes on challenges with innovative tools and advanced coding principles.
           </p>
           <Link href='/#Portfolio'>
             <button className='pr-4 pl-4 py-3 text-white-600 cursor-pointer'>
